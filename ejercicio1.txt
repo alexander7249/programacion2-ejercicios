@@ -1,0 +1,9 @@
+1. Escriba un programa que pida al usuario un entero de tres dígitos, y entregue el número con los
+dígitos en orden inverso. 
+
+Pj.
+Ingrese numero: 345  //Devuelve 543
+Ingrese numero: 241  //Devuelve 142
+
+Pista: Puede utilizar la función de php readline(“Ingrese dato:”) para poder capturar una
+entrada desde modo texto.
